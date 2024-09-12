@@ -22,9 +22,9 @@ Ved at forstå og anvende lumen og hue effektivt kan man skabe datavisualisering
 # Opgave 2
 
 
-1. **Blå (primær)**: God til at vise seriøs eller neutral information. giver ro og troværdighed.
-2. **Lilla (sekundær)**: Bruges til at tilføje variation. Giver en følelse af luksus eller magt. 
-3. **Orange (tertiær)**: Giver energi, god til at fange opmærksomhed.
-4. **Gul (komplementær)**: Stærk kontrast til blå, brugt til at fremhæve, springer i øjne.
+1. * Blå (primær): God til at vise seriøs eller neutral information. giver ro og troværdighed.
+2. * Lilla (sekundær): Bruges til at tilføje variation. Giver en følelse af luksus eller magt. 
+3. * Orange (tertiær): Giver energi, god til at fange opmærksomhed.
+4. * Gul (komplementær): Stærk kontrast til blå, brugt til at fremhæve, springer i øjne.
 
 
